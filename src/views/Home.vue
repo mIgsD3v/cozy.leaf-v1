@@ -179,7 +179,6 @@ const testimonials = [
                 </p>
                 <div class="flex justify-end w-full">
                   <RouterLink
-                    to="/menu"
                     class="inline-block bg-[#800000] text-white text-xs sm:text-sm font-medium px-4 py-2 rounded-full transition duration-300 hover:bg-[#D4AF37] hover:text-[#800000]"
                   >
                     Order Now
@@ -218,12 +217,11 @@ const testimonials = [
                   spices.
                 </p>
                 <div class="flex justify-end w-full">
-                  <RouterLink
-                    to="/menu"
+                  <button
                     class="inline-block bg-[#800000] text-white text-xs sm:text-sm font-medium px-4 py-2 rounded-full transition duration-300 hover:bg-[#D4AF37] hover:text-[#800000]"
                   >
                     Order Now
-                  </RouterLink>
+                  </button>
                 </div>
               </div>
             </div>
@@ -257,12 +255,11 @@ const testimonials = [
                   Deep-fried milk dumplings soaked in rose-flavored sugar syrup
                 </p>
                 <div class="flex justify-end w-full">
-                  <RouterLink
-                    to="/menu"
+                  <button
                     class="inline-block bg-[#800000] text-white text-xs sm:text-sm font-medium px-4 py-2 rounded-full transition duration-300 hover:bg-[#D4AF37] hover:text-[#800000]"
                   >
                     Order Now
-                  </RouterLink>
+                  </button>
                 </div>
               </div>
             </div>
@@ -304,12 +301,11 @@ const testimonials = [
                   traditional spices.
                 </p>
                 <div class="flex justify-end w-full">
-                  <RouterLink
-                    to="/menu"
+                  <button
                     class="inline-block bg-[#800000] text-white text-xs sm:text-sm font-medium px-4 py-2 rounded-full transition duration-300 hover:bg-[#D4AF37] hover:text-[#800000]"
                   >
                     Order Now
-                  </RouterLink>
+                  </button>
                 </div>
               </div>
             </div>
@@ -344,12 +340,11 @@ const testimonials = [
                   spices.
                 </p>
                 <div class="flex justify-end w-full">
-                  <RouterLink
-                    to="/menu"
+                  <button
                     class="inline-block bg-[#800000] text-white text-xs sm:text-sm font-medium px-4 py-2 rounded-full transition duration-300 hover:bg-[#D4AF37] hover:text-[#800000]"
                   >
                     Order Now
-                  </RouterLink>
+                  </button>
                 </div>
               </div>
             </div>
@@ -383,12 +378,11 @@ const testimonials = [
                   Deep-fried milk dumplings soaked in rose-flavored sugar syrup
                 </p>
                 <div class="flex justify-end w-full">
-                  <RouterLink
-                    to="/menu"
+                  <button
                     class="inline-block bg-[#800000] text-white text-xs sm:text-sm font-medium px-4 py-2 rounded-full transition duration-300 hover:bg-[#D4AF37] hover:text-[#800000]"
                   >
                     Order Now
-                  </RouterLink>
+                  </button>
                 </div>
               </div>
             </div>
